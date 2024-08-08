@@ -20,3 +20,20 @@ public class Division
         return (double)a / b;
     }
 }
+
+//Clase para usar la funcion de Suma
+public class Addition
+{
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
+//clase para usar la funcion de Resta
+public class Substraction
+{
+    public static int Substract(int a, int b)
+    {
+        return a - b;
+    }
+}
