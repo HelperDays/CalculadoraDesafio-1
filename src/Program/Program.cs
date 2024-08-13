@@ -37,3 +37,11 @@ public class Substraction
         return a - b;
     }
 }
+//Clase para elevar al cuadrado
+public class Power
+{
+    public static int Squared(int a)
+    {
+        return a * a;
+    }
+}
